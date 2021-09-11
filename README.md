@@ -6,7 +6,7 @@
 
 - 🌱  I’m currently learning Java, Spring Boot, Angular and more to come.
 
-- 🥅  Goals are to code everyday and improve at least 1% each day
+- 🥅  My goals are to code everyday and improve at least 1% each day
 
 - 📫  Reach me @: emmanuelnefo98@gmail.com
 
